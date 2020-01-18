@@ -94,6 +94,7 @@ index_with_subtitle: false
 menu:
   home: / || home
   Music: /music/ || music
+  Photos: /photos/ || photo
   #about: /about/ || user
   #tags: /tags/ || tags
   #categories: /categories/ || th
