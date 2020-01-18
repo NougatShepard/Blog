@@ -110,6 +110,6 @@ douban:
   user: 209445189
   builtin: false
   movie:
-    title: 'This is my movie title'
-    quote: 'This is my movie quote'
+    title: 'Anime && Movies'
+    quote: ''
   timeout: 20000
