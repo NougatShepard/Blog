@@ -105,3 +105,11 @@ deploy:
   type: git #部署方式
   repo: https://github.com/NougatShepard/Blog.git #github仓库
   branch: run-page #部署分支
+
+douban:
+  user: 209445189
+  builtin: false
+  movie:
+    title: 'This is my movie title'
+    quote: 'This is my movie quote'
+  timeout: 20000
