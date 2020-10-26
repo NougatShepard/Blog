@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://443461.xyz/posts/f855e1c9/</loc>
-    <lastmod>2020-10-24</lastmod>
+    <lastmod>2020-10-26</lastmod>
   </url>  <url>
     <loc>http://443461.xyz/posts/5dddbc71/</loc>
     <lastmod>2020-08-20</lastmod>
@@ -19,9 +19,6 @@
     <loc>http://443461.xyz/posts/a1764e80/</loc>
     <lastmod>2020-08-11</lastmod>
   </url>  <url>
-    <loc>http://443461.xyz/posts/8a6faec3/</loc>
-    <lastmod>2020-08-07</lastmod>
-  </url>  <url>
     <loc>http://443461.xyz/posts/2055ca30/</loc>
     <lastmod>2020-08-07</lastmod>
   </url>  <url>
@@ -29,6 +26,9 @@
     <lastmod>2020-08-07</lastmod>
   </url>  <url>
     <loc>http://443461.xyz/posts/a88d1310/</loc>
+    <lastmod>2020-08-07</lastmod>
+  </url>  <url>
+    <loc>http://443461.xyz/posts/8a6faec3/</loc>
     <lastmod>2020-08-07</lastmod>
   </url>
 </urlset>
